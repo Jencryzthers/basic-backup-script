@@ -3,6 +3,7 @@
 
 This script is a python3 script that backup and compress the addons folder WTF and Interface into _backup folder and keep 5 day history to prevent any dataloss from buggy addons that could wipe all the settings.
 
+Based on https://nitratine.net/blog/post/python-file-backup-script/
 
 # How-To
 
